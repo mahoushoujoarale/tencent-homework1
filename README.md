@@ -14,3 +14,11 @@
 2. 在 coding 平台上，新建一个仓库，并上传编写好的 TS 文件
 3. 通过问卷收集 TS 代码链接（注意，是直接可以访问的 TS 链接，如：https://tencent-school.coding.net/p/tencent-school/d/ts-function/git/raw/master/util.ts?download=false）
 4. 作业上交完成后，将会根据上传的 TS 文件来跑测试用例，每道题的用例都通过则该题满分满分，否则 0 分。题目总分相加即是本次作业总分。
+
+## 项目运行
+
+依赖安装
+```npm install```
+
+代码自测
+```npm run start```
